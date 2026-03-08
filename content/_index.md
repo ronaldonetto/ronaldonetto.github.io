@@ -14,5 +14,5 @@ toc: false
 
 ## 2026
 
- - [testando isso aqui](content/2026/index.md/)
+ - [testando isso aqui](/2026/)
 
