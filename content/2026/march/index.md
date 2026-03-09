@@ -1,3 +1,3 @@
-### Ainda estou testando ?
+### Ainda estou testando !
 ---
-- Calma, ainda precisa se alguns ajustes!
+- Calma, ainda precisa de alguns ajustes!
