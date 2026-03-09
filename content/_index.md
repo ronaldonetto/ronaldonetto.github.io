@@ -1,5 +1,5 @@
 ---
-title: RonaldoNetto Blog
+title: RonaldoNetto
 toc: false
 ---
 
