@@ -5,5 +5,5 @@ toc: false
 
 ## 2026 - March
 
- - [Ainda estou testando](/2026/march)
+ - [Minha jornada para a tecnologia: de iniciante a futuro profissional de cibersegurança](/2026/march)
 
