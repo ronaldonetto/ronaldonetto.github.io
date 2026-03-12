@@ -1,4 +1,4 @@
-##          Minha jornada para a tecnologia: de iniciante a futuro profissional de cibersegurança
+##  Minha jornada para a tecnologia: de iniciante a futuro profissional de cibersegurança
 
 Neste artigo quero compartilhar um pouco da minha jornada na área de tecnologia, como surgiu meu interesse por computadores e quais caminhos me levaram a estudar programação e cibersegurança.
 
