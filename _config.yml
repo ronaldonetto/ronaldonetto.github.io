@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: pt-BR
+lang: eng
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone: https://zones.arilyn.cc/?tz=America/Recife
@@ -16,10 +16,10 @@ timezone: https://zones.arilyn.cc/?tz=America/Recife
 
 title: nettocyber # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Test # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Testando.
+    .
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: "https://ronaldonetto.github.io"
 github:
   username: ronaldonetto # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+# username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/ronaldonetto # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
