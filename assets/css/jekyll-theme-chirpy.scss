@@ -1,8 +1,8 @@
 ---
 ---
-@use 'main' {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ;
+@use 'main' {%- if jekyll.environment == 'production' %} .bundle {%- endif %};
 
-/* Customizações abaixo */
+/* Suas cores abaixo */
 
 :root {
   --main-bg: #fa0000 !important;
