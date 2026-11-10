@@ -2,10 +2,9 @@
 ---
 @use 'main' {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ;
 
-/* Qualquer estilo customizado precisa vir abaixo do @use 'main' */
+/* Customizações abaixo */
 
 :root {
-  /* Força as cores diretamente nas variáveis globais do navegador */
   --main-bg: #fa0000 !important;
   --text-color: #00ff40 !important;
   --link-color: #0071fc !important;
