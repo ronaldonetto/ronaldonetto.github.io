@@ -1,0 +1,12 @@
+html[data-mode='light'] {
+  --main-bg: #fa0000;       /* Cor de fundo principal do site */
+  --text-color: #00ff40;    /* Cor da fonte principal */
+  --link-color: #0071fc;    /* Cor dos links */
+}
+
+
+html[data-mode='dark'] {
+  --main-bg: #ff0000;       /* Cor de fundo principal no modo escuro */
+  --text-color: #00ff6a;    /* Cor da fonte no modo escuro */
+  --link-color: #008cff;    /* Cor dos links no modo escuro */
+}
