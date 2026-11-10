@@ -1,19 +1,24 @@
 ---
 ---
-@import 'main';
+@use 'main' {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ;
 
-/* --- SUAS CORES CUSTOMIZADAS ABAIXO --- */
+/* Qualquer estilo customizado precisa vir abaixo do @use 'main' */
 
-/* Modo Claro (Light Mode) */
-html[data-mode='light'] {
-  --main-bg: #fa0000 !important;       /* Cor de fundo principal */
-  --text-color: #00ff40 !important;    /* Cor da fonte principal */
-  --link-color: #0071fc !important;    /* Cor dos links */
+:root {
+  /* Força as cores diretamente nas variáveis globais do navegador */
+  --main-bg: #fa0000 !important;
+  --text-color: #00ff40 !important;
+  --link-color: #0071fc !important;
 }
 
-/* Modo Escuro (Dark Mode) */
+html[data-mode='light'] {
+  --main-bg: #fa0000 !important;
+  --text-color: #00ff40 !important;
+  --link-color: #0071fc !important;
+}
+
 html[data-mode='dark'] {
-  --main-bg: #ff0000 !important;       /* Cor de fundo principal */
-  --text-color: #00ff6a !important;    /* Cor da fonte */
-  --link-color: #008cff !important;    /* Cor dos links */
+  --main-bg: #ff0000 !important;
+  --text-color: #00ff6a !important;
+  --link-color: #008cff !important;
 }
